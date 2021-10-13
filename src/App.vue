@@ -1,6 +1,5 @@
 <template>
 	<div id="app">
-		<div id="nav"><a href="http://localhost:8888/" target="_blank">app</a> |</div>
 		<router-view />
 	</div>
 </template>
